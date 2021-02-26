@@ -1,5 +1,9 @@
 # vue-slider
 
+# Preview 
+
+![Alt text](slider.gif) / ![](slider.gif)
+
 ## Project setup
 ```
 npm install
