@@ -2,7 +2,7 @@
 
 # Preview 
 
-![Alt text](slider.gif) / ![](slider.gif)
+![Alt text](slider.gif)
 
 ## Project setup
 ```
